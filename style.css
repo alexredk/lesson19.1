@@ -1,0 +1,41 @@
+body {
+    background-color: whitesmoke;
+}
+.fab {
+    font-size: 150px;
+    position: absolute;
+    border-radius: 8px;
+    left: 50%;
+    color: white;
+    transition: 0.8s all;
+}
+.box {
+    display: flex;
+}
+form {
+    width: 400px;
+    margin: 0 auto;
+    height: 400px;
+    top: 300px;
+    position: relative;
+    left: 80px;
+    
+
+  }
+  
+h2 {
+    height: 100px;
+    font-style: oblique;
+    position: relative;
+    left: 780px;
+    top: 250px;
+  
+}
+img {
+    position: relative;
+    right: 1090px;
+    height: 480px;
+}
+label:hover {
+    text-decoration: underline;
+}
